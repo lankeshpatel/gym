@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GymApp</string>
+    
+    <!-- WorkoutTab.xml Strings -->
+    
+    <string name="workouts">Workouts</string>
+	<string name="workout_one">Workout #1</string>
+    <string name="workout_two">Workout #2</string>
+	<string name="workout_three">Workout #3</string>
+    	
+    	
+</resources>
